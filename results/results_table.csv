@@ -1,0 +1,39 @@
+id,metric,split,k,n,value,ci_low,ci_high,note
+1,confirmed wrong labels,train,52,10538,0.004935,0.003765,0.006465,
+1-g1,confirmed wrong labels the formula recompute covers and passes,train,31,52,0.596154,0.460676,0.718403,
+1-extraction,confirmed wrong labels: extraction,train,22,10538,0.002088,0.001379,0.003159,
+1-copied typo,confirmed wrong labels: copied typo,train,30,10538,0.002847,0.001995,0.004061,
+4,"gate precision (confirmed / flagged, unclear excluded)",train,52,185,0.281081,0.221266,0.349803,194 flagged; unclear rows left out: 4550 6414 6599 6639 6653 6769 6787 6789 6805
+1,confirmed wrong labels,test,1,1100,0.000909,0.00016,0.005131,
+1-g1,confirmed wrong labels the formula recompute covers and passes,test,1,1,1.0,0.206549,1.0,
+1-extraction,confirmed wrong labels: extraction,test,0,1100,0.0,0.0,0.00348,
+1-copied typo,confirmed wrong labels: copied typo,test,1,1100,0.000909,0.00016,0.005131,
+4,"gate precision (confirmed / flagged, unclear excluded)",test,1,12,0.083333,0.014865,0.35388,12 flagged; unclear rows left out: none
+2,"formula recompute mismatches, Verified v1.0.8",train,0,3794,0.0,0.0,0.001011,skipped 0
+2,"formula recompute mismatches, v1.2",train,27,3794,0.007116,0.004896,0.010335,skipped 0
+5,confirmed defects among unflagged rows (Sonnet re-extraction),train,,,,,,not run: 0 of 100 Sonnet calls cached
+6,haiku: note-supported answers the stored label scores wrong,train,,,,,,not run: 0 of 11 calls cached
+6-control,haiku: clean-row accuracy,train,,,,,,not run: 0 of 40 calls cached
+6,sonnet: note-supported answers the stored label scores wrong,train,,,,,,not run: 0 of 11 calls cached
+6-control,sonnet: clean-row accuracy,train,,,,,,not run: 0 of 40 calls cached
+6,opus: note-supported answers the stored label scores wrong,train,,,,,,not run: 0 of 11 calls cached
+7,"per 1,000 training rows: extraction-defect rows (first factor only)",train,22,10538,2.087683,,,1000 x (22 / 10538); the Sonnet share factor is not run
+8,haiku: copied-typo rows answered with the literal stored label,train+test,,,,,,not run: 0 of 31 calls cached
+8,sonnet: copied-typo rows answered with the literal stored label,train+test,,,,,,not run: 0 of 31 calls cached
+8,opus: copied-typo rows answered with the literal stored label,train+test,,,,,,not run: 0 of 31 calls cached
+found-G4,confirmed defects the G4 outlier screen flags,train,47,52,0.903846,0.793904,0.958226,
+found-G4-label,confirmed defects whose stored label alone is a G4 outlier,train,25,52,0.480769,0.351041,0.613143,
+found-G2G3-only,confirmed defects only G2 or G3 flags,train,5,52,0.096154,0.041774,0.206096,
+found-G4-G3,confirmed defects G4 or G3 flags,train,48,52,0.923077,0.818264,0.969681,
+found-screens,"confirmed defects G4, G3 or a heart-rate or weight range check flags",train,51,52,0.980769,0.898795,0.996597,"heart rate 15 to 300 bpm, weight at most 400 kg; bounds picked after the defects were known"
+found-G4-30x,confirmed defects G4 flags at 30x instead of 100x,train,51,52,0.980769,0.898795,0.996597,post hoc; G4 at 30x flags 110 train rows
+range-screen,train rows a heart-rate or weight range check flags that are confirmed defects,train,3,6,0.5,0.187616,0.812384,2807 4737 4865 5924 6583 6596
+homa-ir,"HOMA-IR training labels with insulin in pmol/L, inflated by the conversion bug",train,32,77,0.415584,0.312092,0.5271,stored / corrected label from 36.0 to 36.0
+homa-ir-new,"of those, rows outside the confirmed defects",train,31,32,0.96875,0.842557,0.994462,
+relabeled,confirmed defects whose label the Verified pass changed,train+test,9,53,0.169811,0.091999,0.292253,
+g2-formats,"G2 precision, original reader",dev,6,64,0.09375,0.043678,0.189829,0 flags removed
+g2-formats,"G2 precision, format-aware reader",dev,2,9,0.222222,0.063225,0.547411,55 flags removed
+g2-formats,"G2 precision, original reader",held-out,5,68,0.073529,0.031815,0.160852,0 flags removed
+g2-formats,"G2 precision, format-aware reader",held-out,5,10,0.5,0.236593,0.763407,58 flags removed
+g2-formats,"G2 precision, original reader",test,0,11,0.0,0.0,0.258833,0 flags removed
+g2-formats,"G2 precision, format-aware reader",test,0,7,0.0,0.0,0.35433,4 flags removed

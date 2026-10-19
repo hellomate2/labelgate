@@ -1,0 +1,9 @@
+check,split,flagged,decided,defects,precision,ci_low,ci_high,false_flags,format_false_flags,defects_only_this_check
+G1,train,0,0,0,,,,0,0,0
+G2,train,136,132,11,0.083333,0.047168,0.143065,121,112,4
+G3,train,2,1,1,1.0,0.206549,1.0,0,0,1
+G4,train,66,62,47,0.758065,0.638475,0.847541,15,0,40
+G1,test,0,0,0,,,,0,0,0
+G2,test,11,11,0,0.0,0.0,0.258833,11,4,0
+G3,test,0,0,0,,,,0,0,0
+G4,test,1,1,1,1.0,0.206549,1.0,0,0,1

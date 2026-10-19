@@ -1,0 +1,6 @@
+data/
+__pycache__/
+.pytest_cache/
+raw/.claude/
+EMAIL.md
+.DS_Store

@@ -1,0 +1,54 @@
+dataset,row,defect_kind,defect_type,checks,g4,g4_label,missed_by_g4,g3,range_check,g4_g3_or_range,g4_30x
+ver_train,34,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,255,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,267,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,311,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,409,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,458,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,463,extraction,other,G4,1,1,0,0,0,1,1
+ver_train,467,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,1337,extraction,range merged,G2 G4,1,1,0,0,0,1,1
+ver_train,1545,extraction,readings mixed,G3,0,0,1,1,0,1,0
+ver_train,2533,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,2572,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,2593,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,2665,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,2673,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,2685,extraction,range merged,G2 G4,1,1,0,0,0,1,1
+ver_train,2807,extraction,range merged,G2,0,0,1,0,1,1,1
+ver_train,3175,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,3211,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,3337,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,3394,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,3703,extraction,unit tag does not match note,G4,1,1,0,0,0,1,1
+ver_train,3794,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,4309,extraction,multiplier dropped,G2 G4,1,1,0,0,0,1,1
+ver_train,4318,extraction,multiplier dropped,G2 G4,1,1,0,0,0,1,1
+ver_train,4323,extraction,multiplier dropped,G2 G4,1,1,0,0,0,1,1
+ver_train,4336,extraction,other,G2 G4,1,1,0,0,0,1,1
+ver_train,4347,extraction,multiplier dropped,G2 G4,1,0,0,0,0,1,1
+ver_train,4368,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,4711,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,4943,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,4981,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,5088,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,5439,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,5564,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,5768,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,5880,extraction,other,G2,0,0,1,0,0,0,1
+ver_train,5924,extraction,range merged,G2,0,0,1,0,1,1,1
+ver_train,6171,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,6596,extraction,range merged,G2,0,0,1,0,1,1,1
+ver_train,6640,extraction,multiplier dropped,G4,1,0,0,0,0,1,1
+ver_train,6660,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,6665,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,6732,extraction,other,G4,1,0,0,0,0,1,1
+ver_train,6801,extraction,multiplier dropped,G4,1,0,0,0,0,1,1
+ver_train,8473,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,8678,copied typo,source typo copied,G4,1,1,0,0,0,1,1
+ver_train,8853,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,8935,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,8980,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,8997,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_train,9027,copied typo,source typo copied,G4,1,0,0,0,0,1,1
+ver_test,877,copied typo,source typo copied,G4,1,0,0,0,0,1,1

@@ -1,0 +1,15 @@
+[project]
+name = "labelgate"
+version = "0.1.0"
+description = "Check extracted training-label inputs against the source text they came from"
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["labelgate", "labelgate.checks", "labelgate.formulas", "labelgate.adapters"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

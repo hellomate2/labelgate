@@ -1,0 +1,255 @@
+{
+  "ver_train": {
+    "counts": {
+      "g1_match": 3794,
+      "rows_G4": 66,
+      "rows_flagged": 194,
+      "rows_G2": 136,
+      "rows_G3": 2,
+      "rows": 10538
+    },
+    "g1_by_formula": {
+      "cockcroft_gault": {
+        "match": 131
+      },
+      "ckd_epi_2021": {
+        "match": 483
+      },
+      "mean_arterial_pressure": {
+        "match": 927
+      },
+      "calcium_correction": {
+        "match": 185
+      },
+      "mdrd": {
+        "match": 275
+      },
+      "sodium_correction": {
+        "match": 259
+      },
+      "serum_osmolality": {
+        "match": 339
+      },
+      "free_water_deficit": {
+        "match": 260
+      },
+      "anion_gap": {
+        "match": 185
+      },
+      "delta_gap": {
+        "match": 297
+      },
+      "delta_ratio": {
+        "match": 243
+      },
+      "albumin_corrected_anion_gap": {
+        "match": 53
+      },
+      "albumin_corrected_delta_gap": {
+        "match": 39
+      },
+      "albumin_corrected_delta_ratio": {
+        "match": 37
+      },
+      "fena": {
+        "match": 81
+      }
+    }
+  },
+  "ver_test": {
+    "counts": {
+      "g1_match": 300,
+      "rows_G2": 11,
+      "rows_flagged": 12,
+      "rows_G4": 1,
+      "rows": 1100
+    },
+    "g1_by_formula": {
+      "cockcroft_gault": {
+        "match": 20
+      },
+      "ckd_epi_2021": {
+        "match": 20
+      },
+      "mean_arterial_pressure": {
+        "match": 20
+      },
+      "calcium_correction": {
+        "match": 20
+      },
+      "mdrd": {
+        "match": 20
+      },
+      "sodium_correction": {
+        "match": 20
+      },
+      "serum_osmolality": {
+        "match": 20
+      },
+      "free_water_deficit": {
+        "match": 20
+      },
+      "anion_gap": {
+        "match": 20
+      },
+      "fena": {
+        "match": 20
+      },
+      "delta_gap": {
+        "match": 20
+      },
+      "delta_ratio": {
+        "match": 20
+      },
+      "albumin_corrected_anion_gap": {
+        "match": 20
+      },
+      "albumin_corrected_delta_gap": {
+        "match": 20
+      },
+      "albumin_corrected_delta_ratio": {
+        "match": 20
+      }
+    }
+  },
+  "v12_train": {
+    "counts": {
+      "g1_match": 3767,
+      "rows_G4": 66,
+      "rows_flagged": 221,
+      "rows_G2": 136,
+      "g1_mismatch": 27,
+      "rows_G1": 27,
+      "rows_G3": 2,
+      "rows": 10543
+    },
+    "g1_by_formula": {
+      "cockcroft_gault": {
+        "match": 131
+      },
+      "ckd_epi_2021": {
+        "match": 456,
+        "mismatch": 27
+      },
+      "mean_arterial_pressure": {
+        "match": 927
+      },
+      "calcium_correction": {
+        "match": 185
+      },
+      "mdrd": {
+        "match": 275
+      },
+      "sodium_correction": {
+        "match": 259
+      },
+      "serum_osmolality": {
+        "match": 339
+      },
+      "free_water_deficit": {
+        "match": 260
+      },
+      "anion_gap": {
+        "match": 185
+      },
+      "delta_gap": {
+        "match": 297
+      },
+      "delta_ratio": {
+        "match": 243
+      },
+      "albumin_corrected_anion_gap": {
+        "match": 53
+      },
+      "albumin_corrected_delta_gap": {
+        "match": 39
+      },
+      "albumin_corrected_delta_ratio": {
+        "match": 37
+      },
+      "fena": {
+        "match": 81
+      }
+    }
+  },
+  "v12_test": {
+    "counts": {
+      "g1_match": 300,
+      "rows_G2": 11,
+      "rows_flagged": 12,
+      "rows_G4": 1,
+      "rows": 1100
+    },
+    "g1_by_formula": {
+      "cockcroft_gault": {
+        "match": 20
+      },
+      "ckd_epi_2021": {
+        "match": 20
+      },
+      "mean_arterial_pressure": {
+        "match": 20
+      },
+      "calcium_correction": {
+        "match": 20
+      },
+      "mdrd": {
+        "match": 20
+      },
+      "sodium_correction": {
+        "match": 20
+      },
+      "serum_osmolality": {
+        "match": 20
+      },
+      "free_water_deficit": {
+        "match": 20
+      },
+      "anion_gap": {
+        "match": 20
+      },
+      "fena": {
+        "match": 20
+      },
+      "delta_gap": {
+        "match": 20
+      },
+      "delta_ratio": {
+        "match": 20
+      },
+      "albumin_corrected_anion_gap": {
+        "match": 20
+      },
+      "albumin_corrected_delta_gap": {
+        "match": 20
+      },
+      "albumin_corrected_delta_ratio": {
+        "match": 20
+      }
+    }
+  },
+  "label_changes": {
+    "train": {
+      "join": "Calculator ID + Note ID",
+      "old_rows": 10543,
+      "new_rows": 10538,
+      "matched": 10538,
+      "label_changed": 331,
+      "changed_rel_1e-4": 274,
+      "changed_rel_0.1pct": 219,
+      "changed_rel_5pct": 147,
+      "non_numeric_changed": 0
+    },
+    "test": {
+      "join": "Calculator ID + Note ID",
+      "old_rows": 1100,
+      "new_rows": 1100,
+      "matched": 1099,
+      "label_changed": 35,
+      "changed_rel_1e-4": 30,
+      "changed_rel_0.1pct": 27,
+      "changed_rel_5pct": 23,
+      "non_numeric_changed": 0
+    }
+  }
+}

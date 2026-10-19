@@ -1,0 +1,148 @@
+dataset,row,part,decision,still_flagged
+ver_train,80,held-out,not a defect,0
+ver_train,265,dev,not a defect,0
+ver_train,288,dev,not a defect,0
+ver_train,1337,dev,defect,1
+ver_train,2080,held-out,not a defect,0
+ver_train,2576,held-out,not a defect,0
+ver_train,2616,held-out,not a defect,0
+ver_train,2685,held-out,defect,1
+ver_train,2807,held-out,defect,1
+ver_train,3343,held-out,not a defect,0
+ver_train,3442,held-out,not a defect,0
+ver_train,3898,held-out,not a defect,0
+ver_train,4302,held-out,not a defect,0
+ver_train,4306,held-out,not a defect,1
+ver_train,4308,held-out,not a defect,0
+ver_train,4309,dev,defect,0
+ver_train,4310,held-out,not a defect,1
+ver_train,4315,dev,not a defect,0
+ver_train,4318,dev,defect,0
+ver_train,4319,dev,not a defect,1
+ver_train,4323,dev,defect,0
+ver_train,4336,held-out,defect,1
+ver_train,4347,dev,defect,0
+ver_train,4353,held-out,not a defect,0
+ver_train,4369,dev,not a defect,1
+ver_train,4550,dev,unclear,1
+ver_train,4568,dev,not a defect,1
+ver_train,4853,held-out,not a defect,0
+ver_train,5504,held-out,not a defect,0
+ver_train,5880,held-out,defect,1
+ver_train,5924,held-out,defect,1
+ver_train,6100,dev,not a defect,0
+ver_train,6583,held-out,not a defect,1
+ver_train,6596,dev,defect,1
+ver_train,6599,dev,unclear,1
+ver_train,6600,dev,not a defect,0
+ver_train,6606,dev,not a defect,0
+ver_train,6723,held-out,not a defect,1
+ver_train,6787,dev,unclear,1
+ver_train,6789,dev,unclear,1
+ver_train,6793,dev,not a defect,0
+ver_train,7223,dev,not a defect,0
+ver_train,7268,dev,not a defect,0
+ver_train,7414,held-out,not a defect,0
+ver_train,7422,dev,not a defect,0
+ver_train,7479,dev,not a defect,1
+ver_train,7794,dev,not a defect,0
+ver_train,7865,dev,not a defect,0
+ver_train,7899,dev,not a defect,0
+ver_train,8215,dev,not a defect,0
+ver_train,8378,dev,not a defect,1
+ver_train,9430,held-out,not a defect,1
+ver_train,9586,dev,not a defect,0
+ver_train,9588,dev,not a defect,0
+ver_train,9590,dev,not a defect,0
+ver_train,9598,held-out,not a defect,0
+ver_train,9599,held-out,not a defect,0
+ver_train,9600,dev,not a defect,0
+ver_train,9602,held-out,not a defect,0
+ver_train,9605,dev,not a defect,0
+ver_train,9607,held-out,not a defect,0
+ver_train,9610,dev,not a defect,0
+ver_train,9613,held-out,not a defect,0
+ver_train,9616,dev,not a defect,0
+ver_train,9617,held-out,not a defect,0
+ver_train,9618,held-out,not a defect,0
+ver_train,9619,held-out,not a defect,0
+ver_train,9621,dev,not a defect,0
+ver_train,9626,dev,not a defect,0
+ver_train,9627,held-out,not a defect,0
+ver_train,9628,held-out,not a defect,0
+ver_train,9630,held-out,not a defect,0
+ver_train,9631,held-out,not a defect,0
+ver_train,9632,held-out,not a defect,0
+ver_train,9754,held-out,not a defect,0
+ver_train,9764,held-out,not a defect,0
+ver_train,9772,dev,not a defect,0
+ver_train,9783,held-out,not a defect,0
+ver_train,10332,dev,not a defect,1
+ver_train,10362,dev,not a defect,1
+ver_train,10469,held-out,not a defect,0
+ver_train,10471,held-out,not a defect,0
+ver_train,10472,dev,not a defect,0
+ver_train,10473,dev,not a defect,0
+ver_train,10474,held-out,not a defect,0
+ver_train,10475,dev,not a defect,0
+ver_train,10476,dev,not a defect,0
+ver_train,10477,held-out,not a defect,0
+ver_train,10478,held-out,not a defect,0
+ver_train,10479,dev,not a defect,0
+ver_train,10480,dev,not a defect,0
+ver_train,10481,dev,not a defect,0
+ver_train,10482,dev,not a defect,0
+ver_train,10483,held-out,not a defect,0
+ver_train,10484,held-out,not a defect,0
+ver_train,10485,held-out,not a defect,0
+ver_train,10487,held-out,not a defect,0
+ver_train,10488,held-out,not a defect,0
+ver_train,10489,held-out,not a defect,0
+ver_train,10490,dev,not a defect,0
+ver_train,10491,held-out,not a defect,0
+ver_train,10492,dev,not a defect,0
+ver_train,10493,held-out,not a defect,0
+ver_train,10494,dev,not a defect,0
+ver_train,10496,held-out,not a defect,0
+ver_train,10499,dev,not a defect,0
+ver_train,10501,dev,not a defect,0
+ver_train,10503,dev,not a defect,0
+ver_train,10504,held-out,not a defect,0
+ver_train,10507,dev,not a defect,0
+ver_train,10508,held-out,not a defect,0
+ver_train,10509,held-out,not a defect,0
+ver_train,10510,dev,not a defect,0
+ver_train,10511,dev,not a defect,0
+ver_train,10512,held-out,not a defect,0
+ver_train,10514,held-out,not a defect,0
+ver_train,10515,dev,not a defect,0
+ver_train,10516,held-out,not a defect,0
+ver_train,10517,held-out,not a defect,0
+ver_train,10518,held-out,not a defect,0
+ver_train,10520,dev,not a defect,0
+ver_train,10521,dev,not a defect,0
+ver_train,10522,dev,not a defect,0
+ver_train,10523,held-out,not a defect,0
+ver_train,10524,dev,not a defect,0
+ver_train,10525,dev,not a defect,0
+ver_train,10526,dev,not a defect,0
+ver_train,10529,held-out,not a defect,0
+ver_train,10530,held-out,not a defect,0
+ver_train,10532,dev,not a defect,0
+ver_train,10533,held-out,not a defect,0
+ver_train,10534,held-out,not a defect,0
+ver_train,10535,dev,not a defect,0
+ver_train,10536,held-out,not a defect,0
+ver_train,10537,held-out,not a defect,0
+ver_train,10538,dev,not a defect,0
+ver_test,179,test,not a defect,0
+ver_test,282,test,not a defect,0
+ver_test,367,test,not a defect,1
+ver_test,371,test,not a defect,1
+ver_test,373,test,not a defect,1
+ver_test,374,test,not a defect,1
+ver_test,380,test,not a defect,1
+ver_test,645,test,not a defect,0
+ver_test,931,test,not a defect,1
+ver_test,951,test,not a defect,0
+ver_test,959,test,not a defect,1

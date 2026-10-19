@@ -1,0 +1,31 @@
+calculator,defect_kind,defect_type,rows
+Albumin Corrected Anion Gap,copied typo,source typo copied,1
+Albumin Corrected Delta Gap,copied typo,source typo copied,1
+Albumin Corrected Delta Ratio,copied typo,source typo copied,3
+Anion Gap,copied typo,source typo copied,1
+Body Mass Index (BMI),copied typo,source typo copied,1
+CKD-EPI Equations for Glomerular Filtration Rate,copied typo,source typo copied,6
+CKD-EPI Equations for Glomerular Filtration Rate,extraction,other,1
+Calcium Correction for Hypoalbuminemia,copied typo,source typo copied,4
+Calcium Correction for Hypoalbuminemia,extraction,range merged,1
+Creatinine Clearance (Cockcroft-Gault Equation),copied typo,source typo copied,1
+Delta Gap,copied typo,source typo copied,1
+Delta Ratio,copied typo,source typo copied,2
+Fibrosis-4 (FIB-4) Index for Liver Fibrosis,copied typo,source typo copied,1
+Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,multiplier dropped,4
+Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,other,1
+Free Water Deficit,extraction,range merged,1
+HOMA-IR (Homeostatic Model Assessment for Insulin Resistance),extraction,other,1
+Ideal Body Weight,copied typo,source typo copied,1
+Ideal Body Weight,extraction,unit tag does not match note,1
+MDRD GFR Equation,copied typo,source typo copied,4
+Maintenance Fluids Calculations,extraction,other,4
+Mean Arterial Pressure (MAP),extraction,range merged,1
+Mean Arterial Pressure (MAP),extraction,readings mixed,1
+PERC Rule for Pulmonary Embolism,extraction,range merged,1
+SIRS Criteria,copied typo,source typo copied,1
+SIRS Criteria,extraction,multiplier dropped,2
+SIRS Criteria,extraction,other,2
+Serum Osmolality,copied typo,source typo copied,2
+Sodium Correction for Hyperglycemia,copied typo,source typo copied,1
+Wells' Criteria for Pulmonary Embolism,extraction,range merged,1

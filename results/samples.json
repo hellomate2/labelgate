@@ -1,0 +1,385 @@
+{
+  "seed": 20261017,
+  "phase1": [
+    "73",
+    "94",
+    "207",
+    "508",
+    "516",
+    "1142",
+    "1289",
+    "1458",
+    "1665",
+    "1706",
+    "1743",
+    "1775",
+    "1852",
+    "1892",
+    "1926",
+    "1953",
+    "2042",
+    "2344",
+    "2503",
+    "2551",
+    "2604",
+    "2757",
+    "2789",
+    "3001",
+    "3031",
+    "3043",
+    "3117",
+    "3202",
+    "3212",
+    "3372",
+    "3409",
+    "3414",
+    "3438",
+    "3445",
+    "3450",
+    "3520",
+    "3562",
+    "3738",
+    "4393",
+    "4677",
+    "4881",
+    "5337",
+    "5472",
+    "5487",
+    "5563",
+    "5601",
+    "5698",
+    "5737",
+    "5772",
+    "5794",
+    "5923",
+    "6022",
+    "6049",
+    "6061",
+    "6120",
+    "6168",
+    "6361",
+    "6377",
+    "6540",
+    "6547",
+    "6557",
+    "6689",
+    "6784",
+    "6958",
+    "6979",
+    "7005",
+    "7045",
+    "7082",
+    "7293",
+    "7297",
+    "7363",
+    "7624",
+    "7650",
+    "7795",
+    "7830",
+    "7974",
+    "8164",
+    "8210",
+    "8387",
+    "8629",
+    "8743",
+    "8792",
+    "8856",
+    "8861",
+    "8917",
+    "8948",
+    "9025",
+    "9144",
+    "9164",
+    "9214",
+    "9573",
+    "9620",
+    "9741",
+    "9800",
+    "10152",
+    "10164",
+    "10208",
+    "10237",
+    "10456",
+    "10513"
+  ],
+  "defects": [
+    {
+      "dataset": "ver_train",
+      "row": "34"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "255"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "267"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "311"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "409"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "458"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "463"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "467"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "1337"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "1545"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2533"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2572"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2593"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2665"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2673"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2685"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "2807"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3175"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3211"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3337"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3394"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3703"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "3794"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4309"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4318"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4323"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4336"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4347"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4368"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4711"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4943"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "4981"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5088"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5439"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5564"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5768"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5880"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "5924"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6171"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6596"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6640"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6660"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6665"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6732"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "6801"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8473"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8678"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8853"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8935"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8980"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "8997"
+    },
+    {
+      "dataset": "ver_train",
+      "row": "9027"
+    },
+    {
+      "dataset": "ver_test",
+      "row": "877"
+    }
+  ],
+  "control": [
+    "92",
+    "194",
+    "364",
+    "396",
+    "598",
+    "605",
+    "1257",
+    "2335",
+    "2597",
+    "2618",
+    "2656",
+    "2670",
+    "3021",
+    "3145",
+    "3198",
+    "3395",
+    "3721",
+    "4282",
+    "4340",
+    "4346",
+    "4351",
+    "4590",
+    "4673",
+    "5159",
+    "5291",
+    "5688",
+    "6086",
+    "6159",
+    "6546",
+    "6658",
+    "6727",
+    "6757",
+    "6782",
+    "8616",
+    "8751",
+    "8900",
+    "8959",
+    "8999",
+    "9006",
+    "9844"
+  ],
+  "control_mix": {
+    "Creatinine Clearance (Cockcroft-Gault Equation)": 1,
+    "CKD-EPI Equations for Glomerular Filtration Rate": 5,
+    "Mean Arterial Pressure (MAP)": 1,
+    "Body Mass Index (BMI)": 1,
+    "Calcium Correction for Hypoalbuminemia": 4,
+    "Wells' Criteria for Pulmonary Embolism": 1,
+    "MDRD GFR Equation": 3,
+    "Ideal Body Weight": 1,
+    "Fibrosis-4 (FIB-4) Index for Liver Fibrosis": 4,
+    "Maintenance Fluids Calculations": 3,
+    "Sodium Correction for Hyperglycemia": 1,
+    "Serum Osmolality": 1,
+    "HOMA-IR (Homeostatic Model Assessment for Insulin Resistance)": 1,
+    "Free Water Deficit": 1,
+    "Anion Gap": 1,
+    "PERC Rule for Pulmonary Embolism": 1,
+    "SIRS Criteria": 4,
+    "Delta Gap": 1,
+    "Delta Ratio": 1,
+    "Albumin Corrected Anion Gap": 1,
+    "Albumin Corrected Delta Gap": 1,
+    "Albumin Corrected Delta Ratio": 2
+  }
+}

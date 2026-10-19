@@ -1,0 +1,7 @@
+dataset,row,calculator,field,value,unit,decision
+ver_train,2807,Wells' Criteria for Pulmonary Embolism,heart_rate,4050.0,beats per minute,defect
+ver_train,4737,Maintenance Fluids Calculations,weight,3300.0,kg,not flagged by the gate
+ver_train,4865,Maintenance Fluids Calculations,weight,2850.0,kg,not flagged by the gate
+ver_train,5924,Free Water Deficit,weight,3035.0,lbs,defect
+ver_train,6583,PERC Rule for Pulmonary Embolism,heart_rate,110120.0,beats per minute,not a defect
+ver_train,6596,PERC Rule for Pulmonary Embolism,heart_rate,7590.0,beats per minute,defect

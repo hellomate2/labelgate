@@ -1,0 +1,54 @@
+dataset,row,calculator,defect_kind,v12_row,v12_label,verified_label,label_changed,rerounded_only,precision_change,same_inputs
+ver_train,34,Creatinine Clearance (Cockcroft-Gault Equation),copied typo,34,0.12759,0.12759,0,0,,1
+ver_train,255,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,255,540.37042,540.37042,0,0,,1
+ver_train,267,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,267,0.00097,0.00096752,1,1,label re-rounded,1
+ver_train,311,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,311,0.01667,0.016671,1,1,label re-rounded,1
+ver_train,409,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,409,0.0057,0.0057034,1,1,label re-rounded,1
+ver_train,458,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,458,0.10711,0.10711,0,0,,1
+ver_train,463,CKD-EPI Equations for Glomerular Filtration Rate,extraction,463,0.0087,0.0087006,1,1,label re-rounded,1
+ver_train,467,CKD-EPI Equations for Glomerular Filtration Rate,copied typo,467,0.01159,0.011586,1,1,label re-rounded,1
+ver_train,1337,Mean Arterial Pressure (MAP),extraction,1337,55446.66667,55446.66667,0,0,,1
+ver_train,1545,Mean Arterial Pressure (MAP),extraction,1545,72.66667,72.66667,0,0,,1
+ver_train,2533,Body Mass Index (BMI),copied typo,2533,220931.70054,220931.70054,0,0,,1
+ver_train,2572,Calcium Correction for Hypoalbuminemia,copied typo,2572,14.298,14.298,0,0,,1
+ver_train,2593,Calcium Correction for Hypoalbuminemia,copied typo,2593,12.09656,12.09656,0,0,,1
+ver_train,2665,Calcium Correction for Hypoalbuminemia,copied typo,2665,17.22512,17.22512,0,0,,1
+ver_train,2673,Calcium Correction for Hypoalbuminemia,copied typo,2673,12.09744,12.09744,0,0,,1
+ver_train,2685,Calcium Correction for Hypoalbuminemia,extraction,2685,95225.4,95225.4,0,0,,1
+ver_train,2807,Wells' Criteria for Pulmonary Embolism,extraction,2807,1.5,1.5,0,0,,1
+ver_train,3175,MDRD GFR Equation,copied typo,3175,4.73784e-07,4.7378e-07,1,1,label re-rounded,1
+ver_train,3211,MDRD GFR Equation,copied typo,3211,12129.9063,11632.92792,1,0,intermediate re-rounded: 0.012 to 0.012443,1
+ver_train,3337,MDRD GFR Equation,copied typo,3337,0.01837,0.018366,1,1,label re-rounded,1
+ver_train,3394,MDRD GFR Equation,copied typo,3394,0.00973,0.0097267,1,1,label re-rounded,1
+ver_train,3703,Ideal Body Weight,extraction,3703,14395.6968,14395.6968,0,0,,1
+ver_train,3794,Ideal Body Weight,copied typo,3794,13942.94065,13942.94065,0,0,,1
+ver_train,4309,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,4309,2273.48119,2273.48119,0,0,,1
+ver_train,4318,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,4318,1691.60545,1691.60545,0,0,,1
+ver_train,4323,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,4323,3705.36697,3705.36697,0,0,,1
+ver_train,4336,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,4336,1664.10059,1664.10059,0,0,,1
+ver_train,4347,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,extraction,4347,31.33419,31.33419,0,0,,1
+ver_train,4368,Fibrosis-4 (FIB-4) Index for Liver Fibrosis,copied typo,4368,26402211.47939,26402211.47939,0,0,,1
+ver_train,4711,Maintenance Fluids Calculations,extraction,4711,2.0,2.0,0,0,,1
+ver_train,4943,Maintenance Fluids Calculations,extraction,4943,1.2,1.2,0,0,,1
+ver_train,4981,Maintenance Fluids Calculations,extraction,4981,1.04,1.04,0,0,,1
+ver_train,5088,Maintenance Fluids Calculations,extraction,5088,1.08,1.08,0,0,,1
+ver_train,5439,Sodium Correction for Hyperglycemia,copied typo,5439,143003.312,143003.312,0,0,,1
+ver_train,5564,Serum Osmolality,copied typo,5564,3683.5746,3683.5746,0,0,,1
+ver_train,5768,Serum Osmolality,copied typo,5768,1171.44286,1171.44286,0,0,,1
+ver_train,5880,HOMA-IR (Homeostatic Model Assessment for Insulin Resistance),extraction,5880,1089.76,1089.76,0,0,,1
+ver_train,5924,Free Water Deficit,extraction,5924,-26.54971,-26.54971,0,0,,1
+ver_train,6171,Anion Gap,copied typo,6171,1230.0,1230.0,0,0,,1
+ver_train,6596,PERC Rule for Pulmonary Embolism,extraction,6596,2,2,0,0,,1
+ver_train,6640,SIRS Criteria,extraction,6640,3,3,0,0,,1
+ver_train,6660,SIRS Criteria,copied typo,6660,3,3,0,0,,1
+ver_train,6665,SIRS Criteria,extraction,6665,2,2,0,0,,1
+ver_train,6732,SIRS Criteria,extraction,6732,4,4,0,0,,1
+ver_train,6801,SIRS Criteria,extraction,6801,3,3,0,0,,1
+ver_train,8473,Delta Gap,copied typo,8474,1218.0,1218.0,0,0,,1
+ver_train,8678,Delta Ratio,copied typo,8679,-609.0,-609.0,0,0,,1
+ver_train,8853,Delta Ratio,copied typo,8854,-1.33467,-1.33467,0,0,,1
+ver_train,8935,Albumin Corrected Anion Gap,copied typo,8936,18.99375,18.99375,0,0,,1
+ver_train,8980,Albumin Corrected Delta Gap,copied typo,8981,6.99375,6.99375,0,0,,1
+ver_train,8997,Albumin Corrected Delta Ratio,copied typo,8998,-0.18173,-0.18173,0,0,,1
+ver_train,9027,Albumin Corrected Delta Ratio,copied typo,9028,-3.49688,-3.49688,0,0,,1
+ver_test,877,Albumin Corrected Delta Ratio,copied typo,877,5.49563,5.49563,0,0,,1

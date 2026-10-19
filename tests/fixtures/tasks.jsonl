@@ -1,0 +1,3 @@
+{"id": "ok", "source_text": "BP 120/80 mmHg.", "fields": {"sbp": [120, "mm hg"], "dbp": [80, "mm hg"]}, "label": 93.33, "formula": "mean_arterial_pressure"}
+{"id": "merged", "source_text": "BP 150-160/80-90 mmHg.", "fields": {"sbp": [150160, "mm hg"], "dbp": [8090, "mm hg"]}, "label": 55446.67, "formula": "mean_arterial_pressure"}
+{"id": "wrong", "source_text": "Na 140, Cl 100, HCO3 24.", "fields": {"sodium": [140, "mmol/L"], "chloride": [100, "mmol/L"], "bicarbonate": [24, "mmol/L"]}, "label": 30, "formula": "anion_gap"}
